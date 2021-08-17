@@ -1,2 +1,5 @@
 # hello-world
-first page and that
+
+Hi guys
+
+Im a student and that
